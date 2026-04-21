@@ -2,6 +2,9 @@
 
 A modern, responsive React application showcasing AI-powered document automation and fraud detection solutions. Built with React, Vite, TypeScript, and Tailwind CSS.
 
+## Link
+https://frontend-assignment-aadrila.netlify.app/
+
 ## 🚀 Features
 
 - **Fully Responsive Design**: Optimized for mobile (320px+), tablet, and desktop viewports
@@ -117,72 +120,5 @@ project/
 4. **Contact Us Section**: Contact form with validation
 5. **Blogs Section**: Blog posts carousel
 6. **Footer Section**: Contact information and footer
-
-## 🚀 Deployment
-
-### Deploying to Vercel
-
-1. **Install Vercel CLI** (optional):
-   ```bash
-   npm i -g vercel
-   ```
-
-2. **Deploy**:
-   ```bash
-   vercel
-   ```
-
-   Or connect your GitHub repository to Vercel for automatic deployments.
-
-3. **Build Settings**:
-   - Build Command: `npm run build`
-   - Output Directory: `dist`
-   - Install Command: `npm install`
-
-### Other Deployment Options
-
-The `dist/` folder contains all static files and can be deployed to:
-- **Netlify**: Drag and drop the `dist/` folder
-- **GitHub Pages**: Push `dist/` contents to `gh-pages` branch
-- **Any static hosting service**: Upload the `dist/` folder contents
-
-## 🔧 Development Tips
-
-- **Hot Module Replacement (HMR)**: Changes are reflected instantly in the browser
-- **TypeScript**: Type checking helps catch errors early
-- **Tailwind CSS**: Use utility classes for rapid styling
-- **Component Structure**: Reusable components are in `src/components/ui/`
-
-## 📝 Available Scripts
-
-- `npm run dev` - Start development server
-- `npm run build` - Build for production
-
-## 🌐 Browser Support
-
-- Chrome (latest)
-- Firefox (latest)
-- Edge (latest)
-- Safari (latest)
-- Mobile browsers (iOS Safari, Chrome Mobile)
-
-## 📄 License
-
-This project is proprietary software.
-
-## 👥 Team
-
-- **MANSI SHUKLA** - CEO FutureSphere
-- **JOHN DOE** - CTO FutureSphere
-- **JANE SMITH** - Head of Product
-
-## 📞 Contact
-
-For inquiries, please use the contact form on the website or reach out to:
-
-- **U.S. Office**: Aadrila Technologies INC, 8 The Green, Ste R, in the City of Dover County of Kent Zip Code 19901.
-- **India Office**: Aadrila Technologies Private Limited, Unit 707, Lotus Trade Centre, Sahakar Nagar, New Link Road, Near D.N.Nagar, Andheri West, Mumbai, Maharashtra 400053.
-
----
-
+##
 **Built with ❤️ using React, Vite, and Tailwind CSS**
